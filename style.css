@@ -1,0 +1,40 @@
+.parallax{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    height: 780px;
+    position:relative;
+}
+.parallax-caption{
+    position: absolute;
+    top: 350px;
+    left: 550px;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
+}
+
+.container{
+    height: 780px;
+
+}
+
+.parallax-caption h1{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.parallax-caption p{
+    font-size: 2rem;
+}
+.parallax-1{
+    background-image: url('https://cdn.thewirecutter.com/wp-content/media/2025/06/BEST-CANON-MIRROLESS-LENSES-05737-2x1-1.jpg?width=2048&quality=75&crop=2:1&auto=webp');
+}
+.parallax-2{
+    background-image: url('https://www.dpreview.com/files/p/articles/6269402639/canon_eosr8.jpeg');
+}
+.parallax-3{
+    background-image: url('https://cdn.wallpapersafari.com/20/87/u3MKjO.jpg');
+}
+.parallax-4{
+    background-image: url('https://cdn.wallpapersafari.com/20/87/u3MKjO.jpg');
+}
