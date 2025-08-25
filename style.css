@@ -59,3 +59,14 @@
 .parallax-4{
     background-image: url('https://cdn.wallpapersafari.com/20/87/u3MKjO.jpg');
 }
+
+
+
+html, body {
+  overflow-x: hidden;
+}
+
+.row {
+  margin-left: 0 !important;
+  margin-right: 0 !important;
+}
