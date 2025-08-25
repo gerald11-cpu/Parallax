@@ -3,7 +3,7 @@
     background-position: center;
     background-repeat:no-repeat;
     background-size:cover;
-    height: 780px;
+    height: 800px;
     position:relative;
 }
 .parallax-caption{
@@ -14,10 +14,31 @@
     text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
 
-.container{
-    height: 780px;
-
+.parallax-caption-1{
+    position: absolute;
+    top: 200px;
+    left: 400px;
+    color: #fff;
+    text-shadow: 2px 2px 4px rgba(0,0,0,0.5);
 }
+
+.container img{
+    background-attachment: fixed;
+    background-position: center;
+    background-repeat:no-repeat;
+    background-size:cover;
+    height: 800px;
+    position:relative;
+}
+
+.parallax-caption-1 h1{
+    font-size: 2rem;
+    font-weight: bold;
+}
+.parallax-caption-1 p{
+    font-size: 2rem;
+}
+
 
 .parallax-caption h1{
     font-size: 2rem;
